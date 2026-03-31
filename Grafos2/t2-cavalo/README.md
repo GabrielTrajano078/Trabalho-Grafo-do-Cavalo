@@ -55,3 +55,6 @@ O programa exibe:
 - existencia de ciclo;
 - um ciclo encontrado;
 - analise de complexidade de tempo e espaco.
+
+
+Link explicação do trabalho:   https://youtu.be/vQ2MTKULzdg
